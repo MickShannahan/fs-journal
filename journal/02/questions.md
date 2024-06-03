@@ -5,7 +5,7 @@
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > It does it 🏋️
 
 03. What are the `SOLID` principles?
 
