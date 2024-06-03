@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > Water, Earth, Air, Fire!
 
 04. Given this array: How could you remove the `pineapple`?
 
